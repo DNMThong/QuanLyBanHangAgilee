@@ -12,7 +12,7 @@ public class App {
 					frame.setLocationRelativeTo(null);
 				} catch (Exception e) {
 					e.printStackTrace();
-//                                      Thong
+//                                      Thong123
 				}
 			}
 		});
